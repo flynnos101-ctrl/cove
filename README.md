@@ -1,2 +1,0 @@
-# cove
-Website for cove
